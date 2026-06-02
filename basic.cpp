@@ -80,7 +80,7 @@ int main(){
     cout<<i<<endl;
     return 0;
 }*/              //error
-
+//global variable 
 #include<iostream>
 using namespace std;
 int x=10;
